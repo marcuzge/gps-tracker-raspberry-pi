@@ -1,0 +1,12 @@
+
+body {
+  background: url("https://images.pexels.com/photos/1445416/pexels-photo-1445416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#map{
+  margin: 0 auto;
+  width:1080;
+  height:500px;
+  border: 1px solid #e07878;
+}
